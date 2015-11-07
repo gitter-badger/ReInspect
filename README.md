@@ -1,6 +1,8 @@
 <img src=http://russellsstewart.com/s/ReInspect_output.jpg></img>
 
 # ReInspect
+
+[![Join the chat at https://gitter.im/anguoyang/ReInspect](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/anguoyang/ReInspect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ReInspect is an neural network extension to Overfeat-GoogLeNet in Caffe.
 It is designed for high performance object detection in images with heavily overlapping instances.
 See <a href="http://arxiv.org/abs/1506.04878" target="_blank">the paper</a> for details or the <a href="https://www.youtube.com/watch?v=QeWl0h3kQ24" target="_blank">video</a> for a demonstration.
